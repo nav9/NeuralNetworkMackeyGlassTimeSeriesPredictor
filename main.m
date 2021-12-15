@@ -1,3 +1,6 @@
+%This project was created for a college assignment.
+%Due to IDE usability reasons, the variable names had to be kept short and un-intuitive.
+
 clc;clear;close all;
 
 %NNLayers has to have a minimum of two layers. Even if should be a single
